@@ -1,4 +1,4 @@
-date_time,Cost,tempF,windspeedMiles,precipMM,humidity,visibilityMiles,pressureInches,cloudcover,HeatIndexF,DewPointF,WindChillF,WindGustMiles,FeelsLikeF,uvIndex
+date_time,Coast,tempF,windspeedMiles,precipMM,humidity,visibilityMiles,pressureInches,cloudcover,HeatIndexF,DewPointF,WindChillF,WindGustMiles,FeelsLikeF,uvIndex
 6/12/21 23:00,10000,77,5,0,85,6,30,14,82,72,77,7,82,1
 6/13/21 0:00,10000,77,5,0,85,6,30,14,82,72,77,7,82,1
 6/13/21 1:00,10000,77,5,0,85,6,30,14,82,72,77,7,82,1
